@@ -1,0 +1,19 @@
+# No Reupload License
+
+Copyright (c) 2026
+
+This modpack may be used as a standalone optimization pack or as a base for optimizing larger modpacks.
+
+You are allowed to:
+• Modify this modpack
+• Use this modpack in private or public servers
+• Use this modpack as a base for other projects
+• Publish modified versions of this modpack with proper credit to the original project
+
+You are NOT allowed to:
+• Reupload the original modpack
+• Reupload unchanged or slightly modified versions of the modpack
+• Claim the original project as your own
+• Remove credits to the original project
+
+All included mods belong to their respective owners and follow their own licenses.
